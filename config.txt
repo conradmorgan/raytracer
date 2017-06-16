@@ -1,0 +1,4 @@
+forward: W
+left: A
+backward: S
+right: D
