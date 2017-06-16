@@ -8,3 +8,5 @@ The keyboard controls can be configured in "config.txt".
 
 Program will accept a command-line argument that specifies the scene definition file to load.
 If no file is specified, it will default to "default_scene.txt".
+
+![ray tracer screenshot](https://i.imgur.com/ndHC8lc.png)
