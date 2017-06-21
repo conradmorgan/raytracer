@@ -29,7 +29,7 @@ public class Main {
         input.newSize = frame.getSize();
 
         // If there are any command-line arguments, use the first argument
-        // as the world definition file. Otherwise default to "world.txt".
+        // as the world definition file. Otherwise default to "default_scene.txt".
         Scene scene = null;
         try {
             scene = new Scene(args.length == 0 ? "default_scene.txt" : args[0]);
